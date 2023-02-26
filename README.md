@@ -2,9 +2,9 @@
 
 This is a flutter demo of a design prototype inspired by [@Zuriks_](https://twitter.com/zuriks_/status/1629068484582727680?t=dZ5PoYApAIOn0ql_X4Qw7Q&s=08) on Twitter.
 
+Final Result:
 
-Final look:
-embed a video here
+https://user-images.githubusercontent.com/37888344/221408090-ef669d95-7477-44fc-9024-e27e76e3da10.mp4
 
 
 
