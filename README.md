@@ -1,6 +1,12 @@
-# whatsapp_status
+# Status Seek Demo
 
-A new Flutter project.
+This is a flutter demo of a design prototype inspired by [@Zuriks_](https://twitter.com/zuriks_/status/1629068484582727680?t=dZ5PoYApAIOn0ql_X4Qw7Q&s=08) on Twitter.
+
+
+Final look:
+embed a video here
+
+
 
 ## Getting Started
 
